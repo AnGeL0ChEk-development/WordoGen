@@ -132,7 +132,7 @@ public class wordogen {
             if (inschoolr == 5){
                 gentext[4] = inschool[4];
             }
-            gentext[5] = "Created by ddd3ddaniel";
+            gentext[5] = "Created by AnGeL0ChEk11";
 
             int lovehomeworkr = (int) getRandomDoubleBetweenRange(1,5);
             String[] lovehomework;
